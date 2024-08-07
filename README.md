@@ -1,5 +1,8 @@
 **Project Overview**
 
+![image](https://github.com/user-attachments/assets/c3142920-f0c3-40f1-bc6a-46ce7e55552b)
+
+
 The Presence Insights Dashboard is an advanced HR analytics tool designed to monitor and evaluate employee attendance and presence patterns comprehensively. This project aims to provide human resources and management teams with actionable insights derived from employee attendance data, aiding in better workforce management and strategic planning.
 
 **Key Features**
