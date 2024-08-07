@@ -3,10 +3,13 @@
 The Presence Insights Dashboard is an advanced HR analytics tool designed to monitor and evaluate employee attendance and presence patterns comprehensively. This project aims to provide human resources and management teams with actionable insights derived from employee attendance data, aiding in better workforce management and strategic planning.
 
 **Key Features**
+
 Total Working Days:
+
 
 Displays the cumulative number of working days considered for analysis.
 Present Days:
+
 
 Indicates the total number of days employees were present at work.
 Presence Percentage:
