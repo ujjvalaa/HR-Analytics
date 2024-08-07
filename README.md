@@ -1,7 +1,7 @@
-Project Overview
+**Project Overview**
 The Presence Insights Dashboard is an advanced HR analytics tool designed to monitor and evaluate employee attendance and presence patterns comprehensively. This project aims to provide human resources and management teams with actionable insights derived from employee attendance data, aiding in better workforce management and strategic planning.
 
-Key Features
+**Key Features**
 Total Working Days:
 
 Displays the cumulative number of working days considered for analysis.
@@ -29,7 +29,7 @@ Provides a daily view of presence percentages within a selected month, showing f
 SL Count Percentage by Date:
 
 Displays the percentage of sick leaves taken on different dates, helping to identify spikes or patterns in sick leave usage.
-Usage and Benefits
+**Usage and Benefits**
 Monitoring Attendance:
 
 HR teams can use the dashboard to monitor overall attendance trends and individual employee presence, identifying potential issues early.
